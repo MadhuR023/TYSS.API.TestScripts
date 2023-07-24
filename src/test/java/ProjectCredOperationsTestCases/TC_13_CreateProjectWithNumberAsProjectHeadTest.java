@@ -6,7 +6,6 @@ import java.util.HashMap;
 
 import org.testng.annotations.Test;
 
-import PojoClasses.ProjectPojo;
 import io.restassured.http.ContentType;
 
 public class TC_13_CreateProjectWithNumberAsProjectHeadTest {
